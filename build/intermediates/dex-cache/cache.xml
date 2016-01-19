@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/shanerudolf/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/shanerudolf/Desktop/untitled folder/CodeChallengeFrankly-master1/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-42b1c0b7d129433672d3cbcdea41c3e36b234e3d.jar" />
+    </item>
+    <item
+        jar="/Users/shanerudolf/Desktop/untitled folder/CodeChallengeFrankly-master1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/shanerudolf/Desktop/untitled folder/CodeChallengeFrankly-master1/app/build/intermediates/pre-dexed/debug/classes-cb2f081d756f36c77c29fcfa287cb446d546be9a.jar" />
+    </item>
+    <item
+        jar="/Users/shanerudolf/Desktop/untitled folder/CodeChallengeFrankly-master1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/shanerudolf/Desktop/untitled folder/CodeChallengeFrankly-master1/app/build/intermediates/pre-dexed/debug/classes-73b80b66eac7ef79e2d89ae40810be5a2face4f4.jar" />
+    </item>
+    <item
+        jar="/Users/shanerudolf/Desktop/untitled folder/CodeChallengeFrankly-master1/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/shanerudolf/Desktop/untitled folder/CodeChallengeFrankly-master1/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-d6a5fc79261542b74d24d2f135d3a76528c4b05a.jar" />
+    </item>
+    <item
+        jar="/Users/shanerudolf/Desktop/untitled folder/CodeChallengeFrankly-master1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/shanerudolf/Desktop/untitled folder/CodeChallengeFrankly-master1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e15f8558000f0e96bdd89969524be79ae17eb3e9.jar" />
+    </item>
+    <item
+        jar="/Users/shanerudolf/Desktop/untitled folder/CodeChallengeFrankly-master1/app/libs/com.haarman.listviewanimations-2.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="59351ccb0a1631d30358f6a92749a072f2df7602">
+        <dex dex="/Users/shanerudolf/Desktop/untitled folder/CodeChallengeFrankly-master1/app/build/intermediates/pre-dexed/debug/com.haarman.listviewanimations-2.6.0-a87265ffe6ee92760237523123a41918525831db.jar" />
+    </item>
+
+</items>
